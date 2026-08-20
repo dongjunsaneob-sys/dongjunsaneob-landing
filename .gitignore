@@ -1,0 +1,7 @@
+deploy-payload.json
+*.png
+*.zip
+.DS_Store
+node_modules/
+.vercel/
+
